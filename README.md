@@ -39,23 +39,7 @@ node "D:\nodejs\nodered\node_modules\node-red\red.js" -u "D:\nodejs\nodered\work
 2.3. Tạo csdl tuỳ ý trên mssql (sql server 2022), nhớ các thông số kết nối: ip, port, username, password, db_name, table_name
 2.4. Cài đặt thư viện trên nodered:
 - truy cập giao diện nodered bằng url: http://localhost:1880
-- cài đặt các thư viện: node-red-contrib-mssql-plus, node-red-node-mysql, node-red-contrib-telegrambot, node-red-contrib-moment, node-red-contrib-influxdb, node-red-contrib-duckdns, node-red-contrib-cron-plus
-- Sửa file `D:\nodejs\nodered\work\settings.js` : 
-  tìm đến chỗ adminAuth, bỏ comment # ở đầu dòng (8 dòng), thay chuỗi mã hoá mật khẩu bằng chuỗi mới
-    adminAuth: {
-        type: "credentials",
-        users: [{
-            username: "admin",
-            password: "chuỗi_mã_hoá_mật_khẩu",
-            permissions: "*"
-        }]
-    },   
-   với mã hoá mật khẩu có thể thiết lập bằng tool: https://tms.tnut.edu.vn/pw.php
-- chạy lại nodered bằng cách: mở cmd, vào thư mục `D:\nodejs\nodered` và chạy lệnh `nssm restart a1-nodered`
-  khi đó nodered sẽ yêu cầu nhập mật khẩu mới vào được giao diện cho admin tại: http://localhost:1880
-2.5. tạo api back-end bằng nodered:
-- tại flow1 trên nodered, sử dụng node `http in` và `http response` để tạo api
-- thêm node `MSSQL` để truy vấn tới cơ sở dữ lifile
+- cài đặt các thư viện: node-red-contrib-mssql-plus, node-red-node-mysql, node-red-contrib-telegrambot, node-red-cont1
 2.2. Cài đặt nodejs và nodered => Dùng làm backend:
 - Cài đặt nodejs:
 - truy cập vào trang của nodejs để cài nodejs

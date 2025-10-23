@@ -112,7 +112,13 @@ DEADLINE: 26/10/2025
 + cài đặt vào thư mục `D:\nodejs`
 + <img width="961" height="1073" alt="image" src="https://github.com/user-attachments/assets/2157d3fa-0fdb-4a7e-a0c9-ef34abd56172" />
 - Cài đặt nodered:
-- 
+-
+-
+-
+-
+-
+-
+
 
 
 

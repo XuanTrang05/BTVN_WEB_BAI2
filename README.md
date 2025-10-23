@@ -96,4 +96,28 @@ GHI CHÚ:
 ==============================
 DEADLINE: 26/10/2025
 ==============================
-./.
+## BÀI LÀM
+2.1. Cài đặt Apache web server:
+2.2. Cài đặt nodejs và nodered => Dùng làm backend:
+- Cài đặt nodejs:
+- truy cập vào trang của nodejs để cài nodejs
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (37)" src="https://github.com/user-attachments/assets/beac01fb-7991-453a-9a65-4def0655d7c7" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225435" src="https://github.com/user-attachments/assets/535cabc6-d154-4b20-a53a-ea721a0cfcc4" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225505" src="https://github.com/user-attachments/assets/aa56511a-1647-4b6a-9232-329e75650a20" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225515" src="https://github.com/user-attachments/assets/4c51020f-693e-4c3a-93e4-10e39b7af2dd" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225535" src="https://github.com/user-attachments/assets/73edcaf0-ded2-432b-a6e3-18848f0baf04" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225547" src="https://github.com/user-attachments/assets/918f464b-ed03-43c1-981a-0656b19791ef" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225612" src="https://github.com/user-attachments/assets/d926c81f-184d-4bee-a31d-0826a37cc8be" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 225628" src="https://github.com/user-attachments/assets/38f86026-a284-422d-ba25-e8bd6c713398" />
++ cài đặt vào thư mục `D:\nodejs`
++ <img width="961" height="1073" alt="image" src="https://github.com/user-attachments/assets/2157d3fa-0fdb-4a7e-a0c9-ef34abd56172" />
+- Cài đặt nodered:
+- 
+
+
+
+
+
+
+
+
